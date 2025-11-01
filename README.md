@@ -46,7 +46,7 @@ UE4内存读取器是一款专为Unreal Engine 4/5游戏设计的高性能内存
 ### 编译安装
 ```bash
 # 克隆项目
-git https://github.com/KernelDan/UE_Dump.git
+git https://github.com/Aniansoda/UE_Dump.git
 cd UE_Dump
 
 # 编译程序
@@ -143,7 +143,7 @@ PlayerController: 0x7ff812345690
 阿念Magic King - UE4逆向分析专家 & 工具开发者
 
 📧 邮箱: 3274457741@qq.com
-🐙 GitHub: @Toyotomi
+🐙 GitHub: @Aniansoda
 
 ---
 
